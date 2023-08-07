@@ -1,0 +1,74 @@
+{
+  "creditcheck": [
+       {
+          "uniqueId": "EKSDH3241B",
+          "score": "780",
+          "utilization": "35%",
+          "lengthInYears": "19",
+		  "derogatory": "No"
+       },
+       {
+          "uniqueId": "JHGSH4352C",
+          "score": "600",
+          "utilization": "15%",
+          "lengthInYears": "8",
+		  "derogatory": "No"
+       },
+       {
+          "uniqueId": "DJSAL3241W",
+          "score": "480",
+          "utilization": "10%",
+          "lengthInYears": "5",
+		  "derogatory": "No"
+       },
+	   {
+          "uniqueId": "JHSDG8374P",
+          "score": "800",
+          "utilization": "45%",
+          "lengthInYears": "20",
+		  "derogatory": "Yes"
+       },
+	   {
+          "uniqueId": "QKJEW2345O",
+          "score": "550",
+          "utilization": "10%",
+          "lengthInYears": "8",
+		  "derogatory": "No"
+	   },
+	   {
+          "uniqueId": "TWERJ2345U",
+          "score": "620",
+          "utilization": "25%",
+          "lengthInYears": "8",
+		  "derogatory": "No"
+	   },
+	   {
+          "uniqueId": "WEIYR3475Y",
+          "score": "320",
+          "utilization": "5%",
+          "lengthInYears": "2",
+		  "derogatory": "Yes"
+	   },
+	   {
+          "uniqueId": "KSDHF2345E",
+          "score": "880",
+          "utilization": "60%",
+          "lengthInYears": "20",
+		  "derogatory": "No"
+       },
+	   {
+          "uniqueId": "FGHQW1234T",
+          "score": "700",
+          "utilization": "45%",
+          "lengthInYears": "15",
+		  "derogatory": "No"
+       },
+	   {
+          "uniqueId": "HJFDS8753O",
+          "score": "750",
+          "utilization": "40%",
+          "lengthInYears": "12",
+		  "derogatory": "No"
+       }
+    ]
+}

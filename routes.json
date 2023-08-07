@@ -1,0 +1,5 @@
+{
+  "/creditcheck/:uniqueId": "/creditcheck?uniqueId=:uniqueId",
+  "/creditcheck/score/:score": "/creditcheck?score=:score",
+  "/creditcheck/derogatory/:derogatory": "/creditcheck?derogatory=:derogatory"
+}
